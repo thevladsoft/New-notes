@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "-.-",
+                "Name": "-.-"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Semitransparent desktop sticky note",
+        "Icon": "knotes",
+        "Id": "New-notes",
+        "License": "GPL-2.0+",
+        "Name": "New-Note"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-DropMimeTypes": [
+        "text/plain",
+        "text/richtext"
+    ]
+}
