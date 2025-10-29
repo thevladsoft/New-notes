@@ -61,6 +61,7 @@ KCM.GridViewKCM {
             from: 0.0
             to: 1.0
             stepSize:0.1
+            Kirigami.FormData.label: i18n("Translucence:")
         }
     }
 
